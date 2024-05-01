@@ -94,14 +94,25 @@ tensorboard-data-server==0.7.2
 tensorflow==2.15.0
 tensorflow-estimator==2.15.0
 tensorflow-intel==2.15.0
+<<<<<<< HEAD
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 tf-nightly==2.17.0.dev20240425
 tf_keras-nightly==2.17.0.dev2024042909
+=======
+tf_keras-nightly==2.17.0.dev2024042909
+tensorflow-io-gcs-filesystem==0.31.0
+termcolor==2.4.0
+tf-nightly==2.17.0.dev20240425
+>>>>>>> 3ce4fc43b976d38f949e693dce23f7cf9d41ca6c
 tf_nightly_intel==2.17.0.dev20240425
 tqdm==4.66.2
 typing_extensions==4.11.0
 uritemplate==4.1.1
 urllib3==2.2.1
 Werkzeug==3.0.2
+<<<<<<< HEAD
 wrapt==1.14.1
+=======
+wrapt==1.14.1
+>>>>>>> 3ce4fc43b976d38f949e693dce23f7cf9d41ca6c
